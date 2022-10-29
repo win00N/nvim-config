@@ -1,4 +1,4 @@
-# Nvim config
+# Nvim config & Alacritty
 
 For Arch Linux Manjaro:
 
